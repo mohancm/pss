@@ -1,0 +1,43 @@
+
+
+Experiment 1 - Calculation of ABCD Parameters
+
+% Calculation of Efficiency and regulation if sending end Parameters are given:
+https://del.dog/pss_exp1_1
+
+% Calculation of Efficiency and regulation if receiving end Parameters are given:
+https://del.dog/pss_exp1_2
+
+
+Experiment 2 - Ybus Formation 
+
+% Ybus formation by Inspection method
+https://del.dog/pss_exp2_1
+
+% Ybus Formation by Singular transformation method without Mutual Coupling
+https://del.dog/pss_exp2_2
+
+% Ybus Formation by singular transformation method with Mutual Coupling
+https://del.dog/pss_exp2_3
+
+Experiment 3 - Determination of Bus Currents, bus Power and line flows for a specified Bus system profile
+https://del.dog/pss_exp3
+
+Experiment 4 - Jacobian Matrix Calculation
+https://del.dog/pss_exp4
+
+Experiment 5 - removed 
+
+Experiment 6 - Determination of Swing Curve
+https://del.dog/pss_exp6
+
+Experiment 7 -  Determination of power angle diagram for
+
+% Salient pole synchronous machine
+https://del.dog/pss_exp7_salient
+
+% Non salient pole synchronous machine
+https://del.dog/pss_exp7_nonsalient
+
+Experiment 8 - Optimal generator scheduling for thermal power plants - Mi power
+
